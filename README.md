@@ -7,4 +7,5 @@
 기본 url은 http://localhost:8081/api/boards 로 접근하시면 데이터를 확인하실 수 있습니다.
 
 화면을 통해서 게시판 목록 확인 및 게시글 등록, 수정, 삭제가 필요한 경우, 아래의 링크에서 확인할 수 있는 "thymeleaf-frontend" 프로젝트를 같이 구동해줘야 합니다.
+
 https://github.com/JinhoHan/thymeleaf-frontend
